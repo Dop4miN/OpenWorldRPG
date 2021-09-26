@@ -1,0 +1,5 @@
+*.exe
+*.dsym
+*.plist
+*.idea
+main
